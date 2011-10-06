@@ -1,0 +1,44 @@
+/* General styles */
+body {
+  margin: 80px 40px;
+	background:#fff;
+	font-size:90%;
+  font-family: "Lucida Grande", Verdana, sans-serif;
+}
+a {
+	color:#369;
+	text-decoration:none;
+}
+a:hover {
+	color:#fff;
+	background:#369;
+	text-decoration:none;
+}
+p {
+	margin:.4em 0 .8em 0;
+	padding:0;
+}
+img {
+	margin:10px 0 5px;
+}
+.wrapper {
+  width:630px;
+  margin-left:auto;
+  margin-right:auto;
+}
+.colleft {
+  float:left;
+  width:290px;
+}
+.colright {
+  margin-top:4em;
+  float:right;
+  width:260px;
+}
+#footer {
+  padding-top:4em;
+  font-size:0.8em;
+	clear:both;
+	width:100%;
+  text-align: center;
+}
